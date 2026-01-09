@@ -201,7 +201,7 @@ function showUrgentAlert() {
     // 3. ADICIONA O EVENTO (AGORA O BOTÃO EXISTE, NÃO VAI DAR NULL)
     if (btnModal) {
         btnModal.onclick = () => {
-            window.location.href = 'https://pay.risepay.com.br/Pay/f81c8181b2fb4d4d93b1112dc31d65d8';
+            window.location.href = 'https://pay.sunize.com.br/ylxxHfvm';
         };
     }
 
@@ -211,3 +211,4 @@ function showUrgentAlert() {
     };
 
 }
+
